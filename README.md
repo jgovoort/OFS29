@@ -2,8 +2,8 @@
 
 This repository contains the analysis material for the 29th Optical Fibre
 Sensing Conference (OFS29) in Porto, Portugal. The notebooks focus on
-Fiber Bragg Grating (FBG) accelerometer measurements collected during the
-Gunnuhver earthquake sequence on 30–31 July 2024.
+Fiber Bragg Grating (FBG) accelerometer measurements collected during an experiment at the Royal Observatory of Belgium (ROB.ipynb) and at
+Gunnuhver (Reykjanes Peninsula) where an earthquake sequence happened on 30–31 July 2024 (GUNN.ipynb & sensitivity_eq.ipynb).
 
 ## Repository contents
 
