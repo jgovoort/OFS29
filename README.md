@@ -29,3 +29,5 @@ Open the notebooks with Jupyter Notebook or JupyterLab, install the Python
 packages imported by the notebook you want to run, and execute the cells in
 order. The notebooks document the processing steps, filtering, comparison, and
 visualization workflows.
+
+![img](plots/plots/gunn_earthquake_30072024.png)
