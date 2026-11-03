@@ -5,6 +5,8 @@ Sensing Conference (OFS29) in Porto, Portugal. The notebooks focus on
 Fiber Bragg Grating (FBG) accelerometer measurements collected during an experiment at the Royal Observatory of Belgium (ROB.ipynb) and at
 Gunnuhver (Reykjanes Peninsula) where an earthquake sequence happened on 30–31 July 2024 (GUNN.ipynb & sensitivity_eq.ipynb).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23913446.svg)](https://doi.org/10.5281/zenodo.23913446)
+
 ## Repository contents
 
 - `notebooks/GUNN.ipynb` — processing and visualization of the Gunnuhver FBG
