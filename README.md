@@ -37,11 +37,14 @@ visualization workflows.
 Please cite the [paper](https://doi.org/10.1117/12.3061572) associated to this code :
 
 ```
-@inproceedings{govoorts2025seismic,
-  title={Seismic activity monitoring in Iceland with fiber Bragg grating accelerometers},
-  author={Govoorts, Julien and Caucheteurb, Christophe and Caudrona, Corentin and Lecocqc, Thomas},
-  booktitle={Proc. of SPIE Vol},
-  volume={13639},
-  pages={1363998--1},
-  year={2025}
-}
+@inproceedings{10.1117/12.3061572,
+author = {Julien Govoorts and Christophe Caucheteur and Corentin Caudron and Thomas Lecocq},
+title = {{Seismic activity monitoring in Iceland with fiber Bragg grating accelerometers}},
+volume = {13639},
+booktitle = {29th International Conference on Optical Fiber Sensors},
+organization = {International Society for Optics and Photonics},
+publisher = {SPIE},
+pages = {1363998},
+year = {2025},
+doi = {10.1117/12.3061572},
+URL = {https://doi.org/10.1117/12.3061572}}
