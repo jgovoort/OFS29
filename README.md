@@ -17,6 +17,8 @@ Gunnuhver (Reykjanes Peninsula) where an earthquake sequence happened on 30–31
   analyses.
 - `data/` — information about the project data source.
 
+![img](plots/plots/gunn_earthquake_30072024.png)
+
 ## Data
 
 The data used by the notebooks is available from
@@ -30,4 +32,15 @@ packages imported by the notebook you want to run, and execute the cells in
 order. The notebooks document the processing steps, filtering, comparison, and
 visualization workflows.
 
-![img](plots/plots/gunn_earthquake_30072024.png)
+## Cite
+
+Please cite the [paper](https://doi.org/10.1117/12.3061572) associated to this code :
+
+```@inproceedings{govoorts2025seismic,
+  title={Seismic activity monitoring in Iceland with fiber Bragg grating accelerometers},
+  author={Govoorts, Julien and Caucheteurb, Christophe and Caudrona, Corentin and Lecocqc, Thomas},
+  booktitle={Proc. of SPIE Vol},
+  volume={13639},
+  pages={1363998--1},
+  year={2025}
+}
